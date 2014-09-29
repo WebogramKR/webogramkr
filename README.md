@@ -112,7 +112,7 @@ Many thanks to all these libraries' authors and contributors. Detailed list with
 
 ### Licensing
 
-The source code is licensed under GPL v3. License is available [here](/LICENSE).
+이 소스 코드는 GPL v3 라이센스를 따릅니다. 라이센스는 [이곳]에서 확인하실 수 있습니다(/LICENSE).
 
 ## Contribute
 
