@@ -12,7 +12,7 @@ MTProto data can be carried over HTTP, but no official web-version for Telegram 
 That said, I'm using this app myself and I'd like to share its sources, so anyone can contribute to the development. Any help is welcome!
 
 
-### Interface
+### 인터페이스
 
 
 Here are some screenshots of the interface:
@@ -23,13 +23,13 @@ Here are some screenshots of the interface:
 ![Mobile screenshot 3](/app/img/screenshot3.png)
 
 
-### Implemented functionality list
+### 구현된 기능 목록
 
-* Sign in by phone number + SMS code, or phone call
+* 휴대폰 번호 + SMS 인증번호 또는 전화로 가입하기
 * View list of existings chats (up-posting) with infinite scrolling
 * View messages history for each chat/group (bottom-posting) with infinite scrolling
 * View brief profile info
-* Create new group
+* 새 그룹 만들기
 * View/edit group info
 * View/edit group participants
 * View media in messages: photo, video
@@ -44,14 +44,14 @@ Here are some screenshots of the interface:
 * Contacts view, search
 * Contacts add/edit
 * Edit, delete, forward messsages
-* Search messages
-* Registration
+* 메시지 검색
+* 등록
 
 
-### Unsupported at the moment
+### 지원하지 않지만 곧 추가될 기능들
 
-* Secret chats
-* ...
+* 비밀 대화
+* 등등...
 
 
 ### Maintained locations
