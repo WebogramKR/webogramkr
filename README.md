@@ -110,19 +110,19 @@ Besides frameworks mentioned above, other libraries are used for protocol and UI
 Many thanks to all these libraries' authors and contributors. Detailed list with descriptions and licenses is available [here](/app/vendor).
 
 
-### Licensing
+### 라이센스
 
-이 소스 코드는 GPL v3 라이센스를 따릅니다. 라이센스는 [이곳]에서 확인하실 수 있습니다(/LICENSE).
+이 소스 코드는 GPL v3 라이센스를 따릅니다. 라이센스는 [이곳](/LICENSE)에서 확인하실 수 있습니다.
 
-## Contribute
+## 기부
 
-You can help this project by reporting problems, suggestions, localizing it or contributing to the code.
+문제 제보, 제안, 현지화나 코드 기여를 통해 이 프로그램을 도울 수 있습니다.
 
 ### Report a problem or suggestion
 
 Go to our [issue tracker](https://github.com/zhukov/webogram/issues) and check if your problem/suggestion is already reported. If not, create a new issue with a descriptive title and detail your suggestion or steps to reproduce the problem.
 
-### Localization
+### 현지화
 
 If you don't see your native language available for Webogram and you can help with translation, please join the [Telegram Web project on Transifex](https://www.transifex.com/projects/p/telegram-web/).
 
