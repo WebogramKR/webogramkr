@@ -42,16 +42,15 @@ Config.Navigator = {
 };
 
 Config.I18n = {
-  locale: 'en-us',
-  supported: ["en-us", "es-es", "de-de"], // To be copied to package.json
+  locale: 'ko-kr',
+  supported: ["en-us", "ko-kr"], // To be copied to package.json
   languages: {
     'en-us': 'English',
-    'de-de': 'Deutsch',
-    'es-es': 'Español'
+    'ko-kr': 'Korean'
   },
   aliases: {
     'en': 'en-us',
-    'de': 'de-de'
+    'ko': 'ko-kr'
   },
   messages: {},
   fallback_messages: {}
