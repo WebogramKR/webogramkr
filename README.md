@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/zhukov/webogram.png?label=ready&title=Ready)](https://waffle.io/zhukov/webogram)
-## [Webogram](http://zhukov.github.io/webogram) – 비공삭 Telegram 한국어 웹 애플리케이션
+## [WebogramKR](http://zhukov.github.io/webogram) – 비공식 Telegram 한국어 웹 애플리케이션
 
 Telegram offers great [apps for mobile communication](https://www.telegram.org). It is based on the [MTProto protocol](https://core.telegram.org/mtproto) and has an [Open API](http://core.telegram.org/api). I personally like Telegram for its speed and cloud-support (that makes a web app possible, unlike in the case of WA and others).
 
